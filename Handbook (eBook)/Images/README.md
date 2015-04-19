@@ -3,7 +3,7 @@
 Hrsg. von: Azure Community Deutschland<br> 
 Berlin 2015
 
-Demofolder für das Azure IoT Plattform Projekt
+Images
 
 Schöne Grüße<br>
 Oliver
