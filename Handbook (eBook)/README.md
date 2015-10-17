@@ -1,9 +1,9 @@
-﻿<b>Azure IoT Plattform</b>
+﻿<b>Azure IoT Handbook</b>
 
 Hrsg. von: Azure Community Deutschland<br> 
 Berlin 2015
 
-Demofolder für das Azure IoT Plattform Projekt
+Das Azure IoT Handbuch
 
 Schöne Grüße<br>
 Oliver
