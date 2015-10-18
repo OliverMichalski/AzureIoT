@@ -1,9 +1,9 @@
-﻿<b>Azure IoT Plattform</b>
+﻿<b>Azure IoT Handbook</b>
 
 Hrsg. von: Azure Community Deutschland<br> 
 Berlin 2015
 
-Azure Event Hub Demo
+Azure IoTHub Demo1 - Create Device Identity
 
 Schöne Grüße<br>
 Oliver
