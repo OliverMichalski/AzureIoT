@@ -3,7 +3,7 @@
 Hrsg. von: Azure Community Deutschland<br> 
 Berlin 2015
 
-Labs für das Azure IoT Handbuch Projekt
+Lab1 Create a Azure IoTHub
 
 Schöne Grüße<br>
 Oliver
