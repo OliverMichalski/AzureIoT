@@ -1,9 +1,9 @@
-﻿<b>Azure IoT Plattform</b>
+﻿<b>Azure IoT Handbook</b>
 
 Hrsg. von: Azure Community Deutschland<br> 
 Berlin 2015
 
-Azure Stream Analytics Demo
+Azure IoTHub Demo2
 
 Schöne Grüße<br>
 Oliver
